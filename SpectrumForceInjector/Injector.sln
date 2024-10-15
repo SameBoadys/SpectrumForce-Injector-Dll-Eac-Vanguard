@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Injector", "Injector.vcxproj", "{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug(DLL)|x64 = Debug(DLL)|x64
+		Debug|x64 = Debug|x64
+		Release(DLL)|x64 = Release(DLL)|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Debug(DLL)|x64.ActiveCfg = Debug(DLL)|x64
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Debug(DLL)|x64.Build.0 = Debug(DLL)|x64
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Debug|x64.ActiveCfg = Debug|x64
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Debug|x64.Build.0 = Debug|x64
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Release(DLL)|x64.ActiveCfg = Release(DLL)|x64
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Release(DLL)|x64.Build.0 = Release(DLL)|x64
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Release|x64.ActiveCfg = Release|x64
+		{5D88271A-75F0-4BAC-A4C5-A2409AAC4E7B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1910DA67-D74B-42E5-91BF-784B81273657}
+	EndGlobalSection
+EndGlobal
